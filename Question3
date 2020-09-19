@@ -1,0 +1,16 @@
+# Assignment2-Variables
+package Day_3tasks;
+
+public class Question3 {
+
+	public static void main(String[] args) {
+		
+		int num=5;
+		double cost=4.2d;
+		
+		System.out.print(num+ " "+cost);
+	
+		
+	}
+
+}
