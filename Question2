@@ -1,0 +1,12 @@
+# Assignment2-Variables
+package Day_3tasks;
+
+public class Question2 {
+
+	public static void main(String[] args) {
+		 String message;
+		 message="day3";
+	System.out.println(message);
+	}
+
+}
