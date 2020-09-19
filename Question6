@@ -1,0 +1,19 @@
+# Assignment2-Variables
+package Day_3tasks;
+
+public class Question6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String l1="Bob, ";
+		String l2="Jill, ";
+		String l3="Betty, ";
+		String l4="Herb, ";
+		String l5="James";
+		
+		System.out.println(l1 + l2 + l3 + l4 + l5);
+		
+
+	}
+
+}
