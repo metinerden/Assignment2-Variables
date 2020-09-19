@@ -1,0 +1,14 @@
+# Assignment2-Variables
+package Day_3tasks;
+
+public class Question4 {
+
+	public static void main(String[] args) {
+		
+		String vrb="hello world";
+		String vara="Today's World Of The Day Is:";
+		System.out.println(vara + vrb);
+		
+	}
+
+}
